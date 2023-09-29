@@ -1,4 +1,5 @@
 
+
 # Coding-Gaints-Website
 
 A brief description of what this project does and who it's for
@@ -7,11 +8,6 @@ A brief description of what this project does and who it's for
 ## Demo
 
 Code live at { https://aditya132p.github.io/Coding-Gaints-Website/ }
-
-
-## Appendix
-
-Any additional information goes here
 
 
 ## Authors
@@ -29,5 +25,4 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 
 ## Screenshots
-
 
